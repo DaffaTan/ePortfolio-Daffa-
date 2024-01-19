@@ -3,6 +3,7 @@
 
 ![Uploading DJI_20231129_113318_491.JPG…]()
 
+
 <h1 align="center">a bit bout me 😋</h1>
 <h3 align="center">Outside my academic pursuits, I've cultivated a range of skills that reflect my diverse interests: I navigate the swift game of Ice Hockey, find discipline and technique in Mixed Martial Arts and Boxing, and express my creative side through playing the Guitar. Whether aiming for the perfect strike in Bowling or conquering slopes with Snowboarding, I thrive on diverse challenges. Additionally, my passion for storytelling comes to life through Cinematic Video Making, where I capture and weave moments into visually compelling narratives. These skills not only showcase my                         versatility but also contribute to a well-rounded and dynamic persona.</h3>
 
