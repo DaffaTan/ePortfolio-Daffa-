@@ -9,7 +9,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daffatan" alt="daffatan" /></a> </p>
 
-- 🌱 I’m currently learning **Software Architecture**
+<p align="center"> 🌱 I’m currently learning **Software Architecture** </p>
 
 - 💬 Ask me about **Anything i mention above**
 
