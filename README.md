@@ -1,4 +1,5 @@
-<h1 align="center">Hello world👋, I'm Daffa Tangguh Ananda Kurniawan</h1>
+<h1 align="center">Hello world👋</h1>
+<h2 align="center">I'm Daffa Tangguh Ananda Kurniawan</h2>
 <h3 align="center">Multi passionate dude with interests ranging from art and sports to photography, videography, and travel. I thrive on challenges and spend my free time learning new things. Let's connect and share our experiences!</h3>
 
 ![DJI_20231129_113318_491-2](https://github.com/DaffaTan/DaffaTan/assets/130416907/f986fb6b-d5f5-4e03-9f88-b58a5e707660)
