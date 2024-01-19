@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Software Architecture**
 
-- 💬 Ask me about **anything I know**
+- 💬 Ask me about **Anything i mention above**
 
 - 📫 How to reach me **daffatangguh02@gmail.com**
 
