@@ -1,8 +1,9 @@
 <h1 align="center">Hello world👋, I'm Daffa Tangguh Ananda Kurniawan</h1>
 <h3 align="center">a multi passionate dude with interests ranging from art and sports to photography, videography, and travel. I thrive on challenges and spend my free time learning new things. Let's connect and share our experiences!</h3>
 
+## a bit bout me 😋
 Outside my academic pursuits, I've cultivated a range of skills that reflect my diverse interests:
-I navigate the swift game of Ice Hockey, find discipline and technique in Mixed Martial Arts and Boxing, and express my creative side through playing the Guitar. Whether aiming for the perfect strike in Bowling or conquering slopes with Snowboarding, I thrive on diverse challenges. Additionally, my passion for storytelling comes to life through Cinematic Video Making, where I capture and weave moments into visually compelling narratives. These skills not only showcase my versatility but also contribute to a well-rounded and dynamic persona
+I navigate the swift game of Ice Hockey, find discipline and technique in Mixed Martial Arts and Boxing, and express my creative side through playing the Guitar. Whether aiming for the perfect strike in Bowling or conquering slopes with Snowboarding, I thrive on diverse challenges. Additionally, my passion for storytelling comes to life through Cinematic Video Making, where I capture and weave moments into visually compelling narratives. These skills not only showcase my versatility but also contribute to a well-rounded and dynamic persona.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daffatan" alt="daffatan" /></a> </p>
 
@@ -18,7 +19,6 @@ I navigate the swift game of Ice Hockey, find discipline and technique in Mixed 
 <a href="https://instagram.com/inidapaaaaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="inidapaaaaaa" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daffatan&show_icons=true&locale=en&layout=compact" alt="daffatan" /></p>
