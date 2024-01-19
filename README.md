@@ -7,7 +7,7 @@
 <h1 align="center">Get to know my abilites😋</h1>
 <h3 align="center">Outside my academic pursuits, I've cultivated a range of skills that reflect my diverse interests: I navigate the swift game of Ice Hockey, find discipline and technique in Mixed Martial Arts and Boxing, and express my creative side through playing the Guitar. Whether aiming for the perfect strike in Bowling or conquering slopes with Snowboarding, I thrive on diverse challenges. Additionally, my passion for storytelling comes to life through Cinematic Video Making, where I capture and weave moments into visually compelling narratives. These skills not only showcase my                         versatility but also contribute to a well-rounded and dynamic persona.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daffatan" alt="daffatan" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daffatan" alt="daffatan" /></a> </p>
 
 - 🌱 I’m currently learning **Software Architecture**
 
