@@ -11,9 +11,9 @@
 
 <p align="center"> 🌱 I’m currently learning **Software Architecture** </p>
 
-- 💬 Ask me about **Anything i mention above**
+<p align="center"> 💬 Ask me about **Anything i mention above** </p>
 
-- 📫 How to reach me **daffatangguh02@gmail.com**
+<p align="center"> 📫 How to reach me **daffatangguh02@gmail.com** </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
